@@ -1,0 +1,30 @@
+Miso soup
+1000
+2.0
+seaweed
+1000
+1.0
+Black dragon rolls (2 pieces)
+35
+2.0
+salmon slices (1 slice)
+69
+1.0
+shrimp tempura (1 piece)
+75
+1.0
+miso soup(1 bowl)
+80
+1.0
+bottled water
+11
+1.0
+gum ball
+9
+0.25
+rice
+170
+2.0
+PRODUCT NOT SET
+0
+0.01
